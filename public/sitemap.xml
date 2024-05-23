@@ -2,11 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/posts/ask-john-draper/</loc>
+    <lastmod>2024-05-23T16:27:35-05:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-05-23T15:29:23-05:00</lastmod>
+    <lastmod>2024-05-23T16:27:35-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-05-23T15:29:23-05:00</lastmod>
+    <lastmod>2024-05-23T16:27:35-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/slipper/</loc>
     <lastmod>2024-05-23T15:29:23-05:00</lastmod>

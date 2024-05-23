@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Flipper Fools</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 May 2024 15:29:23 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 16:27:35 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ask John Draper</title>
+      <link>http://localhost:1313/posts/ask-john-draper/</link>
+      <pubDate>Thu, 23 May 2024 16:27:35 -0500</pubDate>
+      <guid>http://localhost:1313/posts/ask-john-draper/</guid>
+      <description>also why is the PFP half naked?!</description>
+    </item>
     <item>
       <title>Slipper</title>
       <link>http://localhost:1313/posts/slipper/</link>
