@@ -1,0 +1,12 @@
+[submodule "themes/papermod"]
+	path = themes/papermod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "themes/dream"]
+	path = themes/dream
+	url = https://github.com/g1eny0ung/hugo-theme-dream.git
+[submodule "themes/comictheme"]
+	path = themes/comictheme
+	url = https://gitlab.com/mrubli/hugo-theme-comic.git
+[submodule "themes/classless"]
+	path = themes/classless
+	url = https://gitlab.com/Kaligule/classless-blog.git

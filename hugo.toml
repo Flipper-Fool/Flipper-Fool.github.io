@@ -1,0 +1,13 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Flipper No Brains'
+theme = 'classless'
+
+[author]
+name = "ZeroIQ Gang"
+
+[params]
+
+# (Working) examples for overwriting the stylesheetUrl, just uncomment one of them
+# stylesheetUrl = "https://classless.de/classless.css"
+# stylesheetUrl = "https://unpkg.com/marx-css/css/marx.min.css"
