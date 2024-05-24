@@ -6,7 +6,17 @@
     <description>Recent content on Flipper Fools</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 May 2024 17:58:41 -0500</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 May 2024 10:30:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How do I Eject?</title>
+      <link>http://localhost:1313/posts/howeject/</link>
+      <pubDate>Fri, 24 May 2024 10:30:09 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/howeject/</guid>
+      <description>&lt;p&gt;&lt;em&gt;moments before they were ejected from the server&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>No Cap.</title>
       <link>http://localhost:1313/posts/klock-nocap/</link>
