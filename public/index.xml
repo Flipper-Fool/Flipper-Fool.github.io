@@ -6,7 +6,17 @@
     <description>Recent content on Flipper Fools</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 May 2024 10:30:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 May 2024 09:03:27 -0500</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tesla Card</title>
+      <link>http://localhost:1313/posts/tesla-port-card/</link>
+      <pubDate>Thu, 30 May 2024 09:03:27 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/tesla-port-card/</guid>
+      <description>&lt;p&gt;Port? Card? Clearly its all the same!&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>How do I Eject?</title>
       <link>http://localhost:1313/posts/howeject/</link>

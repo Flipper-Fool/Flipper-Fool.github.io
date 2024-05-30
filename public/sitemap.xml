@@ -3,12 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-05-24T10:30:09-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/howeject/</loc>
-    <lastmod>2024-05-24T10:30:09-05:00</lastmod>
+    <lastmod>2024-05-30T09:03:27-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-05-30T09:03:27-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/tesla-port-card/</loc>
+    <lastmod>2024-05-30T09:03:27-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/howeject/</loc>
     <lastmod>2024-05-24T10:30:09-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/klock-nocap/</loc>
