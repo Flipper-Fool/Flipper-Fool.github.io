@@ -6,8 +6,9 @@ theme = 'classless'
 # [author]
 # name = "For all the zero IQ takes"
 
-[params]
-
+# [params]
 # (Working) examples for overwriting the stylesheetUrl, just uncomment one of them
 # stylesheetUrl = "https://classless.de/classless.css"
 # stylesheetUrl = "https://unpkg.com/marx-css/css/marx.min.css"
+# custom_css = ["css/stylesheet.css"]
+# stylesheetUrl = "https://cdn.jsdelivr.net/npm/water.css@2/out/water.css"
