@@ -1,0 +1,13 @@
+<!-- Links to special pages -->
+{{ range (where .Site.RegularPages "Type" "not in" site.Params.mainSections) }}
+<a href="{{ .Permalink }}">
+  {{ .Title }}
+</a>
+<br>
+{{ end }}
+<!-- visable link to Homepage -->
+<a href="{{ .Site.BaseURL }}">Home</a>
+<!-- visable link to RSS-Feed -->
+<br><br><a href="{{ "index.xml" | absLangURL }}" target="_blank">
+  RSS-Feed
+</a>
