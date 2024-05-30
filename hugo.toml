@@ -3,8 +3,8 @@ languageCode = 'en-us'
 title = 'Flipper Fools'
 theme = 'classless'
 
-# [author]
-# name = "For all the zero IQ takes"
+ [author]
+ name = "For the best and iconic fools of Flipper"
 
 # [params]
 # (Working) examples for overwriting the stylesheetUrl, just uncomment one of them
