@@ -1,0 +1,6 @@
++++
+title = 'Pay to Be Brain dead'
+date = 2024-05-31T18:09:58-05:00
+draft = true
+image= "braindead.png"
++++
