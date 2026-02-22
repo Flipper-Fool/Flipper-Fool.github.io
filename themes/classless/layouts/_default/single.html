@@ -1,0 +1,22 @@
+{{ define "main" }}
+
+<article>
+  <h1>
+  {{ .Title }}
+  </h1>
+
+  {{ if .Params.date }}
+  <time>
+  {{ .Date.Format "2006-01-02" }}
+  </time>
+  {{ end }}
+
+  {{ if .Params.image }}
+  <br>
+  <img src="{{ .RelPermalink }}{{ .Params.image }}" alt="{{ .Title }}" />
+  {{ end }}
+
+  {{ .Content }}
+</article>
+
+{{ end }}

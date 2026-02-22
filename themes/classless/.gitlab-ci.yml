@@ -1,0 +1,13 @@
+image: registry.gitlab.com/pages/hugo:latest
+
+variables:
+  GIT_SUBMODULE_STRATEGY: recursive
+
+pages:
+  script:
+  - hugo --source="exampleSite" --themesDir="../.." --baseURL="https://kaligule.gitlab.io/classless-blog/" --destination="../public"
+  artifacts:
+    paths:
+    - public
+  rules:
+    - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH

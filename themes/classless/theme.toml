@@ -1,0 +1,13 @@
+name = "Classless Blog"
+license = "GPLv3"
+licenselink = "https://gitlab.com/Kaligule/classless-blog/LICENSE"
+description = "A blog theme that works well with classless-css frameworks. It is designed to be as simple, accessible and minimal as possible."
+homepage = "https://gitlab.com/Kaligule/classless-blog"
+demosite = "https://kaligule.gitlab.io/classless-blog/"
+tags = ["blog", "minimal", "responsive"]
+features = ["responsive", "minimal", "classless"]
+min_version = "0.53.0"
+
+[author]
+  name = "Johannes Lippmann"
+  homepage = "https://schauderbasis.de"
