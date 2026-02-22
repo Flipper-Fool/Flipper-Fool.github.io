@@ -7,6 +7,3 @@
 [submodule "themes/comictheme"]
 	path = themes/comictheme
 	url = https://gitlab.com/mrubli/hugo-theme-comic.git
-[submodule "themes/classless"]
-	path = themes/classless
-	url = https://gitlab.com/Kaligule/classless-blog.git
